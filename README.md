@@ -1,2 +1,2 @@
 # Python
-Coders club Resporitory
+Coders club Repository
